@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hi, I'm Subhash Chandra Sharma 👋
+
+🚀 AI/ML | Generative AI | B.Tech (CSE) - NIET | IIT Kanpur Trained | 6 Years UPSC Experience | Python | Pandas | Building Real Solutions
+
+## 🔥 About Me
+- 🎓 Trained in AI/ML & Generative AI from IIT Kanpur
+- 🛠️ Building AI Projects with Python, Pandas, and Data Science tools
+- ⚡ Transitioning from 6 years of UPSC preparation to AI/ML field
+- 🚀 Passionate about solving real-life problems using data
+
+## 💻 Skills
+- Python, Pandas, NumPy, Data Science, AI/ML
+- Strong Problem Solving
+- UPSC Domain Expertise
+
+## 📫 Connect with me
+- Email: subhashchandrasharma909@gmail.com
+  
+
+
 
 <!--
 **subbhaaash/subbhaaash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
