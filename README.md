@@ -27,10 +27,16 @@
 👉 [View Project File](./PERSONAL_EXPENSE_TRACKER.py)
 
 ---
+**2. Sales Analysis 📊**  
+*A Python-based Data Analysis & Visualization project for uncovering sales patterns.*  
+- **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn  
+- **Key Highlights:**  
+  - Data cleaning & preprocessing  
+  - Exploratory Data Analysis (EDA) for monthly sales trends  
+  - Visualization of sales patterns using bar plots & line charts  
+  - Detection of highest sales month & festive season spikes  
+  - Insights for business decision-making based on seasonal trends  
 
-### 2. Sales Analysis 📊
-- A Python project to analyze monthly sales data.
-- Features: Data cleaning, sales trends visualization, highest sales month detection, festive season sales analysis.
 
 [View Project File](https://github.com/subbhaaash/sales-analysis/blob/main/Sales_Analysis_Project.ipynb)
 
