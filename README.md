@@ -32,13 +32,15 @@
 - A Python project to analyze monthly sales data.
 - Features: Data cleaning, sales trends visualization, highest sales month detection, festive season sales analysis.
 
-[View Project File](./Sales_Analysis_Project.ipynb)
+[View Project File](https://github.com/subbhaaash/sales-analysis/blob/main/Sales_Analysis_Project.ipynb)
+
 
 ### 3. Income vs Rent Prediction 📈
 - A Machine Learning project using Linear Regression to predict rent based on income data.
 - Features: Data cleaning, visualization, model training, evaluation (MSE, R² score), and prediction graph.
 
-[View Project File](./INCOME_RENT_PREDICTION.ipynb)
+[View Project File](https://github.com/subbhaaash/income-vs-rent/blob/main/INCOME_RENT_PREDICTION.ipynb)
+
 
 
 
