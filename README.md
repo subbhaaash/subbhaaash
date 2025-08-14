@@ -23,8 +23,7 @@ Hi, I'm Subhash Chandra Sharma 👋
 A simple Python project to track daily expenses.  
 Features: Add expenses, view expenses, delete expenses, and see total spending.  
 
-👉 [View Project File](https://github.com/subbhaaash/Personal-Expense-Tracker/blob/main/expense_tracker.py)
-
+👉 [View Project File](https://github.com/subbhaaash/subbhaaash/blob/main/PERSONAL_EXPENSE_TRACKER.py)
 ---
 
 2. **Sales Analysis 📊**  
