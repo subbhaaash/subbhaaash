@@ -27,7 +27,8 @@ Hi, I'm Subhash Chandra Sharma 👋
 👉 [View Project File](./PERSONAL_EXPENSE_TRACKER.py)
 
 ---
-**2. Sales Analysis 📊**  
+**2. SALES ANALYSIS 📊**  
+
 *A Python-based Data Analysis & Visualization project for uncovering sales patterns.*  
 - **Technologies Used:** Python, Pandas, NumPy, Matplotlib, Seaborn  
 - **Key Highlights:**  
