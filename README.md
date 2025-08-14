@@ -1,18 +1,18 @@
-# Hi, I'm Subhash Chandra Sharma 👋
+Hi, I'm Subhash Chandra Sharma 👋
 
-🚀 AI/ML | Generative AI | B.Tech (CSE) – NIET | IIT Kanpur Trained | 6 Years UPSC Experience | Python | Pandas | Building Real Solutions
+🚀 Generative AI & Machine Learning Engineer | B.Tech (CSE) – NIET | IIT Kanpur Certified | 6 Years UPSC Experience | Python | Pandas | NumPy | Building Data-Driven Solutions
 
 🔥 About Me
-- ⚙️ Trained in AI/ML & Generative AI from IIT Kanpur
-- ✨ Building AI Projects with Python, Pandas, and Data Science tools
-- 🎯 Transitioning from 6 years of UPSC preparation to AI/ML field
-- 🚀 Passionate about solving real-life problems using data
 
-## Skills
-- Python, Pandas, NumPy, Data Science, AI/ML
-- Strong Problem Solving
-- UPSC Domain Expertise
+🎓 Certified in AI/ML & Generative AI from IIT Kanpur
 
+🛠 Building real-world AI projects using Python, Pandas, NumPy, and Data Science tools
+
+🔄 Career Transition: From 6 years of UPSC preparation to cutting-edge AI/ML
+
+💡 Passionate about solving complex real-life problems with data & automation
+
+📈 Strong analytical mindset with domain expertise in governance, policy, and decision-making
 ## Connect with me
 - Email: subhashchandrasharma909@gmail.com
 
