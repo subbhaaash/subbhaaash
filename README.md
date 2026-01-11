@@ -1,8 +1,8 @@
 # Hi, I'm Subhash Chandra Sharma 👋
 
 🚀 **Generative AI & Machine Learning Engineer** | B.Tech (CSE) – NIET  
-🎓 **IIT Kanpur Certified (AI/ML & Generative AI)**  
-🧠 6 Years UPSC Experience | Python | Pandas | NumPy | Data-Driven AI Systems
+🎓 **Professional Certificate course in Generative AI and Machine Learning from E&ICT Academy,IIT Kanpur**  
+ | Python | Pandas | NumPy | Data-Driven AI Systems
 
 ---
 
@@ -33,11 +33,10 @@ This capstone project focuses on building AI systems that understand road scenes
 
 ## 🔥 About Me
 
-- 🎓 Certified in **AI/ML & Generative AI** from IIT Kanpur  
+- 🎓 professional in **AI/ML & Generative AI** from E&ICT Academy,IIT Kanpur
 - 🛠 Building real-world AI systems using Python, ML, DL, and Data Science tools  
-- 🔄 Career Transition: From 6 years of UPSC preparation to applied AI/ML engineering  
-- 💡 Passionate about solving complex real-life problems with data & automation  
-- 📈 Strong analytical mindset with domain exposure to governance, policy, and decision-making  
+ - 💡 Passionate about solving complex real-life problems with data & automation  
+- 📈 Strong analytical mindset from upsc preparation with domain exposure to governance, policy, and decision-making  
 
 ---
 
