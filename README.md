@@ -1,8 +1,10 @@
 # Hi, I'm Subhash Chandra Sharma 👋
 
-🚀 **Generative AI & Machine Learning Engineer** | B.Tech (CSE) – NIET  
-🎓 **Professional Certificate course in Generative AI and Machine Learning from E&ICT Academy,IIT Kanpur**  
- | Python | Pandas | NumPy | Data-Driven AI Systems
+🚀 **Generative AI & Machine Learning Engineer**  
+🎓 B.Tech (CSE) – NIET  
+🏫 Professional Certification in Generative AI & Machine Learning – **E&ICT Academy, IIT Kanpur**  
+💻 Python | Pandas | NumPy | OpenCV | TensorFlow | Keras  
+📊 Building Data-Driven & End-to-End AI Systems
 
 ---
 
@@ -10,81 +12,90 @@
 
 **End-to-End Autonomous Driving System using Machine Learning & Deep Learning**
 
-This capstone project focuses on building AI systems that understand road scenes and assist real-world self-driving decisions.
+This capstone project focuses on building AI systems that **understand road scenes and assist real-world self-driving decisions** using Computer Vision and Deep Learning.
 
-### Key Components
+### 🔑 Key Components
 - Lane Detection
 - Steering Angle Prediction
 - Traffic Sign Recognition
 - Behavioral Cloning
 - Computer Vision with CNNs
 
-### Tech Stack
+### 🧠 Tech Stack
 - Python
 - NumPy, Pandas
 - OpenCV
 - TensorFlow / Keras
 - Convolutional Neural Networks (CNNs)
 
-🔗 **GitHub Repository:**  
+🔗 **Repository:**  
 👉 https://github.com/subbhaaash/autonomous-driving-capstone
 
 ---
 
 ## 🔥 About Me
 
-- 🎓 professional in **AI/ML & Generative AI** from E&ICT Academy,IIT Kanpur
-- 🛠 Building real-world AI systems using Python, ML, DL, and Data Science tools  
- - 💡 Passionate about solving complex real-life problems with data & automation  
-- 📈 Strong analytical mindset from upsc preparation with domain exposure to governance, policy, and decision-making  
+- 🎓 Certified in **AI/ML & Generative AI** from **E&ICT Academy, IIT Kanpur**
+- 🛠 Experienced in building **real-world AI systems** using Python, ML & Deep Learning
+- 💡 Passionate about solving **complex real-life problems** using data & automation
+- 📈 Strong analytical mindset with exposure to **governance, policy & decision-making systems**
 
 ---
 
-## 📂 Other Projects
+## 📂 Projects
 
-### 1. **Personal Expense Tracker 💰**  
-A simple Python project to track daily expenses.  
-**Features:** Add, view, delete expenses & compute total spending.  
+### 1️⃣ Personal Expense Tracker 💰
+A Python application to manage daily expenses.
 
-👉 https://github.com/subbhaaash/subbhaaash/blob/main/PERSONAL_EXPENSE_TRACKER.py
+**Features**
+- Add, view & delete expenses
+- Compute total spending
 
----
-
-### 2. **Sales Analysis 📊**  
-Python-based Data Analysis & Visualization project to uncover sales patterns.  
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn  
-**Highlights:**  
-- Data cleaning & preprocessing  
-- Monthly & seasonal sales trends  
-- Business-driven visual insights  
-
-👉 https://github.com/subbhaaash/Sales-Analysis
+🔗 👉 https://github.com/subbhaaash/subbhaaash/blob/main/PERSONAL_EXPENSE_TRACKER.py
 
 ---
 
-### 3. **Income vs Rent Prediction 📈**  
-Machine Learning project using Linear Regression to predict rent from income data.  
+### 2️⃣ Sales Analysis 📊
+Data Analysis & Visualization project to uncover business insights from sales data.
 
-**Includes:**  
-- Data visualization  
-- Model training  
-- Evaluation (MSE, R²)  
+**Technologies**
+- Python, Pandas, NumPy, Matplotlib, Seaborn
 
-👉 https://github.com/subbhaaash/Income-vs-Rent-ML
+**Highlights**
+- Data cleaning & preprocessing
+- Monthly & seasonal sales trends
+- Business-driven visual insights
+
+🔗 👉 https://github.com/subbhaaash/Sales-Analysis
 
 ---
 
-### 4. **Marketing Campaigns — EDA & Hypothesis Testing 📊**  
-Interview-focused Exploratory Data Analysis using the 4Ps framework.  
+### 3️⃣ Income vs Rent Prediction 📈
+Machine Learning project using **Linear Regression**.
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy  
-**Highlights:**  
-- Feature engineering (Age, Children, Spending, Purchases)  
-- Statistical tests: ANOVA, Welch t-test, Pearson correlation  
-- Actionable business insights with statistical evidence  
+**Features**
+- Data visualization
+- Model training & evaluation (MSE, R²)
+- Prediction graph
 
-👉 https://github.com/subbhaaash/marketing-campaigns-eda
+🔗 👉 https://github.com/subbhaaash/Income-vs-Rent-ML
+
+---
+
+### 4️⃣ Marketing Campaigns — EDA & Hypothesis Testing 📊
+Interview-ready Exploratory Data Analysis using **4Ps Framework**.
+
+**Focus**
+- Clean pipeline
+- Clear visuals
+- Statistical validation
+
+**Highlights**
+- Feature engineering (Age, Children, Total Spending)
+- ANOVA, Welch t-test, Pearson correlation
+- Actionable business insights
+
+🔗 👉 https://github.com/subbhaaash/marketing-campaigns-eda
 
 ---
 
