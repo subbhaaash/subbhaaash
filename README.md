@@ -7,6 +7,21 @@
 📊 Building Data-Driven & End-to-End AI Systems
 
 ---
+### 5️⃣ PixiiPulse 🚀 
+
+AI-powered Amazon listing optimizer for conversion, SEO & AEO (Rufus-ready)
+
+**Features**
+- AI audit of Amazon listings
+- Conversion score + fixes
+- SEO & AEO readiness
+- Clean UI + real-time analysis
+
+🔗 Live App:
+https://pixiipulse.streamlit.app
+
+🔗 GitHub Repo:
+https://github.com/subbhaaash/pixiipulse
 
 ## 🚗 FLAGSHIP PROJECT — Autonomous Driving Capstone 🤖
 
